@@ -1,0 +1,6 @@
+[build]
+  functions = "functions"
+
+[[functions]]
+  name = "tes"
+  path = "functions/index.js"
